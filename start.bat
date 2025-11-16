@@ -1,0 +1,1 @@
+node merge.js 1.pdf 2.pdf
